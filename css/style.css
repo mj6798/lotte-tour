@@ -95,7 +95,7 @@ overflow: hidden; float: left; margin: 20px 5px 0; }
 #info .ifnb li:after { content: "|"; margin: 0 10px; }
 #info .ifnb li:last-child:after { display: none; }
 
-footer { background: #464646; color: #fff; height: 399px; font-weight: lighter; width: 100%; }
+footer { background: #464646; color: #fff; height: 399px; font-weight: lighter; width: 1920px; }
 footer address { font-style: normal; padding: 42px 0 38px; margin-left: 45px; }
 footer ul { border-top: 4px solid #000; padding-top: 50px; }
 footer ul li { float: left; height: 48px; margin-left: 120px; }
